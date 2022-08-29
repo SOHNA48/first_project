@@ -1,0 +1,15 @@
+server:
+  servlet:
+    context-path: /
+  port: 8050
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+    static-path-pattern: /**
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
