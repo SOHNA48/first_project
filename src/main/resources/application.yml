@@ -13,3 +13,8 @@ spring:
       enabled: true
     restart:
       enabled: true
+  rabbitmq:
+    host: 192.168.1.28
+    username: sohyun
+    password: 5050
+    port: 5672

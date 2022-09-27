@@ -11,6 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-hello!!
+<input type="file">
+<button>tool</button>
 </body>
 </html>
